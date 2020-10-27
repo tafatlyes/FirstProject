@@ -7,6 +7,7 @@ public class Phone { // Goal: Constructor parameterization
         }
 
         public Phone(String modelOfConstructor) { //Constructor parameterization
+
             this.model = modelOfConstructor;
         }
 

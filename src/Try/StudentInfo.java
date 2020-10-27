@@ -1,3 +1,5 @@
+package Try;
+
 public class StudentInfo { // Goal: Constructor parameterization
 
     String studentname;

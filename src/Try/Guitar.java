@@ -1,3 +1,5 @@
+package Try;
+
 public class Guitar { // Goal: methods parameterization
 
         public static void main(String[] args) {
@@ -8,10 +10,12 @@ public class Guitar { // Goal: methods parameterization
         }
 
         public static void printNumberOfStrings() {
+
             System.out.println(12);
         }
 
         public static void printGuitarDetails(String nameOfBrand) {
+
             System.out.println(nameOfBrand);
         }
 

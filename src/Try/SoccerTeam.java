@@ -1,3 +1,5 @@
+package Try;
+
 public class SoccerTeam {// parameterization of  methods
 
     public static void main(String[] args) {
